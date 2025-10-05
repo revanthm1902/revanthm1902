@@ -12,6 +12,24 @@
 </p>
 
 
+<!-- Github Stats-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=revanthm1902&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revanthm1902&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revanthm1902&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/revanthm1902?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/revanthm1902?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+</p>
+
+---
+
+
 <div align="center"> <table> <tr> <!-- 🧠 ABOUT ME --> <td align="center" width="50%" style="vertical-align: top;"> <h3>🧠 About Me</h3> <p align="left"> 💻 B.Tech CSE @ <b>VIT-AP (2023–2027)</b><br> ⚙️ Passionate about <b>AI-driven IoT</b>, <b>Smart Systems</b>, and <b>VR-based Learning Platforms</b><br> 🚀 Innovator focused on <b>creating real-world impact</b><br> 🎯 Goal: Build a <b>startup that blends innovation + impact</b> </p> </td> <!-- 🔭 CURRENTLY WORKING --> <td align="center" width="50%" style="vertical-align: top;"> <h3>🔭 Currently Working On</h3> <p align="left"> 🧠 <b>RAIA (Revanth’s AI Assistant)</b> — Personalized AI system that learns & evolves 🤖<br> 📊 Exploring <b>Data Visualization & Predictive Analytics</b> for smarter insights 📈<br> </p> </td> </tr> </table> </div>
 
 
@@ -53,22 +71,6 @@
 ---
 
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revanthm1902&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revanthm1902&theme=radical" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revanthm1902&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/revanthm1902?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/revanthm1902?affiliations=OWNER%2CCOLLABORATOR&style=social" />
-</p>
-
----
 
 ### 🚀 Featured Projects
 💡 **[CS-1 Smart Helmet](https://github.com/revanthm1902/CS-1)**  
