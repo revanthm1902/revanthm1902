@@ -59,8 +59,10 @@
 <h3 style="margin-bottom: 10px;">📊 Most Used Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthm1902&layout=compact&langs_count=8&theme=tokyo-night" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthm1902&hide=html,css&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" 
+       alt="Top Languages" width="400" />
 </p>
+
 
 </td>
 </tr>
