@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Revanth Modalavalasa</span></h1>
-<h3 align="center">🚀 Computer Science Engineer | 💡 Aspiring Entrepreneur | 🧠 Innovator</h3>
+<h3 align="center">Computer Science Engineer ⭐ Aspiring Entrepreneur ⭐ Innovator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&color=00F779&width=550&lines=Building+Smart+Tech+for+a+Smarter+World!;Full-Stack+Dev+%7C+IoT+%7C+AI+%7C+VR;Turning+ideas+into+innovations+💥;Let's+innovate+together+🤝" alt="Typing SVG" />
