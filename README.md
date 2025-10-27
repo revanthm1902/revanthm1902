@@ -19,8 +19,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revanthm1902&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revanthm1902&bg_color=fffafc&color=ff1493&line=ff69b4&point=ff1493&area=true&hide_border=true" width="95%"/>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/revanthm1902?label=Followers&style=social" />
