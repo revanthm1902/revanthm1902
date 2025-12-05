@@ -99,8 +99,9 @@ Personalized AI assistant that learns, remembers, and evolves. Think Siri × Cha
 - 🥈 Runner-Up – **IEEE Hacksagon 2025 (IIITM Gwalior)**
 - 🌍 Global Nominee – **NASA Space Apps Challenge 2024**
 - 💻 Open Source Contributor – **GsSOC 2025**
-- 🎓 Certified – **Oracle Cloud Infrastructure (OCI)**
-- 🔢 Solved **200+ DSA Problems** across platforms
+- 🎓 Certified – **Oracle Cloud Infrastructure (OCI) Foundations**
+- 🎓 Certified – **Oracle Cloud Infrastructure (OCI) Generative AI**
+- 🔢 Solved **300+ DSA Problems** across all platforms
 
 ---
 
