@@ -145,4 +145,4 @@ Personalized AI assistant that learns, remembers, and evolves. Think Siri × Cha
 </p>
 
 ---
-⭐ **Check out my projects →** [https://github.com/revanthm1902](https://github.com/revanthm1902) ⭐
+⭐ **Check out my projects →** [My Github Repos](https://github.com/revanthm1902?tab=repositories) ⭐
