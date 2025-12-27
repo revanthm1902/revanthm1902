@@ -15,7 +15,6 @@
 <!-- Github Stats-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=revanthm1902&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revanthm1902&theme=radical" height="170"/>
 </p>
 
 <p align="center">
