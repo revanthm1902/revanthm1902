@@ -14,11 +14,8 @@
 
 <!-- Github Stats-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revanthm1902&show_icons=true&theme=radical" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revanthm1902&bg_color=fffafc&color=ff1493&line=ff69b4&point=ff1493&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-stats-revanths-projects-a5eba29f.vercel.app/api?username=revanthm1902&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats-revanths-projects-a5eba29f.vercel.app/api/top-langs/?username=revanthm1902&hide=html,css&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" width="400" />
 </p>
 
 
@@ -59,8 +56,7 @@
 <h3 style="margin-bottom: 10px;">📊 Most Used Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthm1902&hide=html,css&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" 
-       alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats-revanths-projects-a5eba29f.vercel.app/api/top-langs/?username=revanthm1902&hide=html,css&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" alt="Top Languages" width="400" />
 </p>
 
 
